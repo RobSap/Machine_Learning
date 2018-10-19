@@ -5,7 +5,7 @@ This repository uses GitHub Pages and Markdown files. Click [here](http://robsap
 ### Projects
 
 
-### Perceptron from Scratch
+#### Perceptron from Scratch
 Written in python, just a basic perceptron.
 
 #### Spam and Ham Email Filter
