@@ -5,9 +5,9 @@ This repository uses GitHub Pages and Markdown files. Click [here](http://robsap
 ### Projects
 
 
-###Perceptron from Scratch
+### Perceptron from Scratch
 Written in python, just a basic perceptron.
 
-####Spam and Ham Email Filter
+#### Spam and Ham Email Filter
 This is a spam and ham email filter using the enron emails to train and test on. This model uses a unigram based model.
 
